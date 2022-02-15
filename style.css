@@ -1,0 +1,61 @@
+body {
+	margin: 30px;
+	font-family: 'Georgia';
+	background-color: #ffebeb;
+}
+
+h1{
+	font-family: 2rem;
+	text-shadow: 0 0 4px white;
+	letter-spacing: 5px;
+	margin-bottom: 10px;
+	padding: 25px;
+	background-color: #ff007b;
+}
+.subtitle {
+	font-style: italic;
+	padding: 0;
+	margin-bottom: 25px;
+	color: black;
+}
+.subtitle::after {
+	content: "🌹";
+	font-style: initial;
+}
+.titles {
+	border-bottom: 2px solid #ff007b;
+}
+h4 {
+	color: #ff007b;
+}
+.line {
+	text-decoration: line-through black 10%;
+}
+a {
+	color:#ff007b;
+	padding: 5px;
+	margin: 5px;
+}
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #ff007b;
+	color: black;
+}
+
+footer {
+	text-align: center;
+	padding: 15px;
+	background-color: #ff007b;
+}
+.header {
+	text-align: center;
+	background-color: white;
+	padding-bottom: 15px;
+}
+.blog {
+	padding: 10px 35px 10px 35px;
+	background-color: white;
+}
