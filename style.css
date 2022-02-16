@@ -50,6 +50,9 @@ footer {
 	padding: 15px;
 	background-color: #ff007b;
 }
+hr {
+	margin: 20px 0;
+}
 .header {
 	text-align: center;
 	background-color: white;
@@ -58,4 +61,8 @@ footer {
 .blog {
 	padding: 10px 35px 10px 35px;
 	background-color: white;
+}
+.goodmorning {
+	color: #ff007b;
+	font-weight: 600;
 }
