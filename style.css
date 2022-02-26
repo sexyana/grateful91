@@ -9,6 +9,11 @@ body {
 	font-weight: 700;
 }
 
+.highlightblue {
+	color: #007FFF;
+	font-weight: 700;
+}
+
 h1{
 	font-family: 2rem;
 	text-shadow: 0 0 4px white;
