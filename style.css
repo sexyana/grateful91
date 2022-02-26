@@ -4,6 +4,11 @@ body {
 	background-color: #ffebeb;
 }
 
+.highlight {
+	color: #ff007b;
+	font-weight: 700;
+}
+
 h1{
 	font-family: 2rem;
 	text-shadow: 0 0 4px white;
