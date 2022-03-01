@@ -4,12 +4,11 @@ body {
 	background-color: #ffebeb;
 }
 
-.highlight {
+.pink {
 	color: #ff007b;
 	font-weight: 700;
 }
-
-.highlightblue {
+.blue {
 	color: #007FFF;
 	font-weight: 700;
 }
