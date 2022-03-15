@@ -3,6 +3,7 @@ body {
 	margin: 20px;
 	font-family: 'Georgia';
 	background-color: #ffebeb;
+        color: white;
 }
 
 .pink {
@@ -26,7 +27,7 @@ h1{
 	font-style: italic;
 	padding: 0;
 	margin-bottom: 15px;
-	color: black;
+	color: white;
 	background-color: lavender;
 }
 .subtitle::after {
@@ -53,7 +54,7 @@ a:link {
 
 a:hover {
 	background-color: #ff007b;
-	color: black;
+	color: white;
 }
 
 footer {
@@ -65,14 +66,10 @@ hr {
 	margin: 20px 0;
 }
 .header {
-	background-color: lavender;
+	background-color: black;
 	padding-bottom: 10px;
 }
 .blog {
 	padding: 10px 35px 10px 35px;
-	background-color: lavender;
-}
-.goodmorning {
-	color: #ff007b;
-	font-weight: 600;
+	background-color: black;
 }
