@@ -3,7 +3,7 @@ body {
 	margin: 20px;
 	font-family: 'Georgia';
 	background-color: #ffebeb;
-        color: white;
+        color: black;
 }
 
 .pink {
@@ -28,8 +28,8 @@ h1{
 	font-style: italic;
 	padding: 0;
 	margin-bottom: 15px;
-	color: white;
-	background-color: black;
+	color: black;
+	background-color: white;
 }
 .subtitle::after {
 	content: "🌹";
@@ -68,10 +68,10 @@ hr {
 	margin: 20px 0;
 }
 .header {
-	background-color: black;
+	background-color: white;
 	padding-bottom: 10px;
 }
 .blog {
 	padding: 10px 35px 10px 35px;
-	background-color: black;
+	background-color: white;
 }
