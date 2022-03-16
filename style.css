@@ -29,7 +29,7 @@ h1{
 	padding: 0;
 	margin-bottom: 15px;
 	color: white;
-	background-color: #36454f;
+	background-color: #black;
 }
 .subtitle::after {
 	content: "🌹";
@@ -68,10 +68,10 @@ hr {
 	margin: 20px 0;
 }
 .header {
-	background-color: #36454f;
+	background-color: #black;
 	padding-bottom: 10px;
 }
 .blog {
 	padding: 10px 35px 10px 35px;
-	background-color: #36454f;
+	background-color: #black;
 }
