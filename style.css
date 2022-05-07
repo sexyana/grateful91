@@ -5,7 +5,9 @@ body {
 	background-color: #ffebeb;
         color: black;
 }
-
+section {
+	padding: 15px;
+}
 .pink {
 	color: #ff007b;
 	font-weight: 700;
@@ -46,7 +48,7 @@ h4 {
 }
 a {
 	color:#ff007b;
-	padding: 5px;
+	padding: 10px;
 	margin: 5px;
 }
 a:link {
