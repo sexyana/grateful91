@@ -46,6 +46,9 @@ h4 {
 .line {
 	text-decoration: line-through black 10%;
 }
+ul {
+	list-style-type: none;
+}
 a {
 	color:#ff007b;
 	padding: 10px;
