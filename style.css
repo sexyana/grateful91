@@ -38,7 +38,8 @@ h1{
 	font-style: initial;
 }
 .titles {
-	border-bottom: 2px solid #ff007b;
+	border-bottom: 1px solid #ff007b;
+    padding-bottom: 20px;
 }
 h4 {
 	color: #ff007b;
@@ -54,8 +55,8 @@ li {
 }
 a {
 	color:#ff007b;
-	padding: 10px;
-	margin: 5px;
+	padding: 12px;
+	margin: 0 0 5px 5px;
 }
 a:link {
 	text-decoration: none;
@@ -73,13 +74,13 @@ footer {
         color: black;
 }
 hr {
-	margin: 20px 0;
+	margin: 10px 0;
 }
 .header {
 	background-color: white;
 	padding-bottom: 10px;
 }
 .blog {
-	padding: 10px 35px 10px 35px;
+	padding: 30px 100px;
 	background-color: white;
 }
