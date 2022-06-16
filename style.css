@@ -3,7 +3,9 @@ body {
 	margin: 20px;
 	font-family: 'Georgia';
 	background-color: #ffebeb;
-        color: #29ceff;
+        color: #84c7db;
+	line-height: 1.2rem;
+        letter-spacing: 1px;
 }
 
 section {
