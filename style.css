@@ -3,19 +3,15 @@ body {
 	margin: 20px;
 	font-family: 'Georgia';
 	background-color: #ffebeb;
-        color: black;
+        color: #29ceff;
 }
 section {
 	padding: 15px;
 }
 .pink {
 	color: #ff007b;
-	font-weight: 700;
 }
-.blue {
-	color: #007FFF;
-	font-weight: 700;
-}
+
 .cowsay {
 	width: 250px;
 	height: 220px;
@@ -36,8 +32,8 @@ h1{
 	font-style: italic;
 	padding: 0;
 	margin-bottom: 15px;
-	color: black;
-	background-color: white;
+	color: #ff007b;
+	background-color: black;
 }
 .subtitle::after {
 	content: "🌹";
@@ -83,10 +79,10 @@ hr {
 	margin: 10px 0;
 }
 .header {
-	background-color: white;
+	background-color: black;
 	padding-bottom: 10px;
 }
 .blog {
 	padding: 30px 50px;
-	background-color: white;
+	background-color: black;
 }
