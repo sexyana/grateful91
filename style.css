@@ -5,16 +5,16 @@ body {
 	background-color: #ffebeb;
         color: #29ceff;
 }
-.blogTitle {
-	color: #29ceff;
-}
+
 section {
 	padding: 15px;
 }
 .pink {
 	color: #ff007b;
 }
-
+.dates {
+	color: #995b79;
+}
 .cowsay {
 	width: 250px;
 	height: 220px;
