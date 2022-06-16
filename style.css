@@ -5,6 +5,9 @@ body {
 	background-color: #ffebeb;
         color: #29ceff;
 }
+.blogTitle {
+	color: #29ceff;
+}
 section {
 	padding: 15px;
 }
