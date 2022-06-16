@@ -33,8 +33,7 @@ h1 {
 }
 .subtitle {
 	font-style: italic;
-	padding: 0;
-	margin-bottom: 15px;
+	padding: 30px;
 	color: #ff007b;
 	background-color: black;
 }
@@ -81,7 +80,6 @@ hr {
 .header {
 	background-color: black;
 	padding-bottom: 10px;
-	text-align: center;
 	font-family: 'Georgia';
 }
 .blog {
