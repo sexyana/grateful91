@@ -1,8 +1,8 @@
 body {
 	margin: 0;
 	font-family: 'Georgia';
-	background-color: #ffebeb;
-        color: #4ec1e3; /*#84c7db previous blue*/
+	background-color: black;
+        color: #4ec1e3;
 	line-height: 1.5em;
         letter-spacing: 1px;
 }
@@ -77,11 +77,9 @@ hr {
 	margin: 10px 0;
 }
 .header {
-	background-color: black;
 	padding-bottom: 10px;
 }
 .blog {
 	padding: 30px 50px;
-	background-color: black;
 	font-size: larger;
 }
