@@ -68,7 +68,10 @@ footer {
         color: black;
 }
 hr {
-	margin: 10px 0;
+	margin: 3rem auto;
+    border-width: thick;
+    border-style: dashed;
+    width: 100%;
 }
 .header {
 	padding-bottom: 10px;
