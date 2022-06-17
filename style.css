@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	font-family: 'monospace';
+	font-family: 'Georgia';
 	background-color: #ffebeb;
         color: #84c7db;
 	line-height: 1.5em;
@@ -80,11 +80,9 @@ hr {
 .header {
 	background-color: black;
 	padding-bottom: 10px;
-	font-family: 'Georgia';
 }
 .blog {
 	padding: 30px 50px;
 	background-color: black;
-	font-family: 'monospace';
 	font-size: larger;
 }
