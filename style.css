@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	font-family: 'Georgia';
 	background-color: #ffebeb;
-        color: #4ec1e3; /*#84c7db* previous blue/
+        color: #4ec1e3; /*#84c7db previous blue*/
 	line-height: 1.5em;
         letter-spacing: 1px;
 }
@@ -69,8 +69,7 @@ a:hover {
 }
 
 footer {
-	text-align: center;
-	padding: 15px;
+	padding: 12px;
 	background-color: #ff007b;
         color: black;
 }
