@@ -35,10 +35,6 @@ h1 {
 	color: #ff007b;
 	background-color: black;
 }
-.subtitle::after {
-	content: "🌹";
-	font-style: initial;
-}
 
 h4 {
 	color: #ff007b;
@@ -80,4 +76,5 @@ hr {
 .blog {
 	font-style: italic;
 	padding: 30px 50px;
+	line-height: 1.25rem;
 }
