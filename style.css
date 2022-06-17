@@ -2,9 +2,7 @@ body {
 	margin: 0;
 	font-family: 'Georgia';
 	background-color: black;
-        color: #5a98ab;
-	line-height: 1.5em;
-        letter-spacing: 1px;
+        color: #ffa2cf;
 }
 
 section {
@@ -80,6 +78,6 @@ hr {
 	padding-bottom: 10px;
 }
 .blog {
+	font-style: italic;
 	padding: 30px 50px;
-	font-size: larger;
 }
