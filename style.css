@@ -89,8 +89,13 @@ li {
     border-style: dotted;
     border-width: 0 0 1rem 0;
     margin-bottom: 4rem;
-    border-color: #4b9cc4;
+    border-color: #407088;
 }
 .blog {
     padding-top: 4rem;
+}
+.sub {
+    background-color:#407088;
+    margin: 0 auto;
+    padding: 0;
 }
