@@ -2,7 +2,7 @@ body {
     background-color: #132743;
     color: #ffcbcb; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    line-height: 2rem;
+    line-height: 1.5rem;
     font-size: medium;
     text-align: center;
     margin: 0;
@@ -10,14 +10,15 @@ body {
 
 img {
     border-radius: 100%;
-    width: 10rem;
-    height: 10rem;
+    width: 7rem;
+    height: 7rem;
     object-fit: cover;
     border: 1px solid #407088;
+    margin-bottom: 2.rem;
 }
 
 h1 {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
     font-family: 'Parisienne', cursive;
     color: #132743;
     letter-spacing: 3px;
@@ -26,10 +27,11 @@ h1 {
 hr {
     border-color: #ffb5b5;
     border-style: solid;
+    margin: 0 auto;
 }
     
 .titles {
-    padding: 2rem;
+    padding: 1rem;
 }
 a {
     text-decoration: none;
